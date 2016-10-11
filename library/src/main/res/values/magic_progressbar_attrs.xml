@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MagicProgressBar">
+        <attr name="mpb_is_round" format="boolean" />
+        <attr name="mpb_background_color" format="color" />
+        <attr name="mpb_fill_color" format="color"/>
+    </declare-styleable>
+
+</resources>
